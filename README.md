@@ -22,4 +22,4 @@ In the frontend, port 5000
 Once configured, you can run the application by issuing two commands: npm `npm run start` and `npm run server`
 
 Made by NODERS Team<br>
-Contact: icodragon [NODERS]#4560
+Discord contact: icodragon [NODERS]#4560
